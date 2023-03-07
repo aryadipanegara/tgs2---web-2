@@ -5,4 +5,4 @@
  - UNIVERSITAS PELITA BANGSA
  
  ## Hasil
- ![image](https://user-images.githubusercontent.com/113499162/223432022-3bd11cb5-11e6-4f98-a0c7-78f59085411d.png)
+ ![image](https://user-images.githubusercontent.com/113499162/223434312-53bc42cf-02ac-4cb0-8b45-65a3de017402.png)
